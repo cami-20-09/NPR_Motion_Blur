@@ -16,7 +16,7 @@ The current prototype can generate five diffrent motion blur types using Bifrost
 ### Dependencies
 
 * the Bifrost Plug-In needs to be loaded
-* it is recommended to use the latest Maya version (2024)
+* you need to use the latest Maya version (2024)
 
 ### Installing
 
@@ -53,16 +53,18 @@ restart Maya and write the following command into your script editor and hit run
 
 If you want to take a look into the generated Bifrost Graphs you can find them in the DNT
 groups in Maya’s Outliner after generating your desired Motion Blur. 
-    * Right-Click the Bifrost Object and select Open in Bifrost
-    * Inside the Bifrost Graph double-click the Motion Blur Node to look inside
-    * The Nodes with yellow backdrops offer more insights into some self-created
-    compounds
+
+* Right-Click the Bifrost Object and select Open in Bifrost
+* Inside the Bifrost Graph double-click the Motion Blur Node to look inside
+* The Nodes with yellow backdrops offer more insights into some self-created compounds
+    
 Or you can also simply search for the following Nodes in Bifrost:
-    * deform
-    * multiples
-    * multiple_shape
-    * shapetrails
-    * motiontrail
+
+* deform
+* multiples
+* multiple_shape
+* shapetrails
+* motiontrail
 
 ## Example Results
 ![2](https://github.com/cami-20-09/NPR_Motion_Blur/assets/83505396/0b6935b6-e90b-403f-b9ef-fde7dd57dfd2)

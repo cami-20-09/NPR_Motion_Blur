@@ -66,14 +66,14 @@ Or you can also simply search for the following Nodes in Bifrost:
 * shapetrails
 * motiontrail
 
-## Example Results
+### Example Results
 ![2](https://github.com/cami-20-09/NPR_Motion_Blur/assets/83505396/0b6935b6-e90b-403f-b9ef-fde7dd57dfd2)
 ![4](https://github.com/cami-20-09/NPR_Motion_Blur/assets/83505396/182c7326-b481-4b25-8aeb-8c9199629f27)
 ![6](https://github.com/cami-20-09/NPR_Motion_Blur/assets/83505396/2443d119-c01e-4d4a-b428-031ea222b2e5)
 
 
 
-## Image Sources
+### Image Sources
 Motiontrails Img.3:https://pngtree.com/element/down?id=OTE3NDk2NA==&type=1&time=1718123702&token=ZDFmYzhhM2VjNDQyMjc4NGM2MzhlZjkyZDI5ZjRiNTE=&t=0
 
 Motiontrails Img.4:https://www.vecteezy.com/png/10313281-ink-brush-stroke?autodl_token=a0ad24ad48eac48da2ee168ac43c7346ba59eac152a6a1fb9dc7293b8f180e3cdf0d175e4279854035b9534a0caa4e5354aee3dbdcd519626978a145d90e3c52

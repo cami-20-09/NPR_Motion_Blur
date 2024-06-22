@@ -64,6 +64,11 @@ Or you can also simply search for the following Nodes in Bifrost:
     * shapetrails
     * motiontrail
 
+## Example Results
+![2](https://github.com/cami-20-09/NPR_Motion_Blur/assets/83505396/0b6935b6-e90b-403f-b9ef-fde7dd57dfd2)
+![1](https://github.com/cami-20-09/NPR_Motion_Blur/assets/83505396/47d00a07-dbac-4eb7-b5c9-7252f561b78f)
+
+
 ## Image Sources
 Motiontrails Img.3:https://pngtree.com/element/down?id=OTE3NDk2NA==&type=1&time=1718123702&token=ZDFmYzhhM2VjNDQyMjc4NGM2MzhlZjkyZDI5ZjRiNTE=&t=0
 

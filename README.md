@@ -64,6 +64,11 @@ Or you can also simply search for the following Nodes in Bifrost:
     * shapetrails
     * motiontrail
 
+## Image Sources
+Motiontrails Img.3:https://pngtree.com/element/down?id=OTE3NDk2NA==&type=1&time=1718123702&token=ZDFmYzhhM2VjNDQyMjc4NGM2MzhlZjkyZDI5ZjRiNTE=&t=0
+
+Motiontrails Img.4:https://www.vecteezy.com/png/10313281-ink-brush-stroke?autodl_token=a0ad24ad48eac48da2ee168ac43c7346ba59eac152a6a1fb9dc7293b8f180e3cdf0d175e4279854035b9534a0caa4e5354aee3dbdcd519626978a145d90e3c52
+
 ## Author
 
 Thi Cam Thanh Pham

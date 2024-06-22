@@ -66,7 +66,9 @@ Or you can also simply search for the following Nodes in Bifrost:
 
 ## Example Results
 ![2](https://github.com/cami-20-09/NPR_Motion_Blur/assets/83505396/0b6935b6-e90b-403f-b9ef-fde7dd57dfd2)
-![1](https://github.com/cami-20-09/NPR_Motion_Blur/assets/83505396/47d00a07-dbac-4eb7-b5c9-7252f561b78f)
+![4](https://github.com/cami-20-09/NPR_Motion_Blur/assets/83505396/182c7326-b481-4b25-8aeb-8c9199629f27)
+![6](https://github.com/cami-20-09/NPR_Motion_Blur/assets/83505396/2443d119-c01e-4d4a-b428-031ea222b2e5)
+
 
 
 ## Image Sources
